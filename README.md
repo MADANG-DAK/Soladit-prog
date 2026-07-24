@@ -1,20 +1,32 @@
-# 👋 Halo, Saya Ydaryani!
+# 👋 Halo, Saya Ydaryani! 
 
-🚀 **Beginner Web Developer** dari Indonesia yang sedang bersemangat belajar pemrograman web.
+Lagi asyik mendalami dunia **Web Development** 🚀 
+Suka ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal baru!
 
 ---
 
-### 🛠️ Bahasa & Teknologi
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### ☕ Sekilas Tentang Saya
+* 🇮🇩 Berbasis di Indonesia
+* 🎯 Lagi fokus belajar: **HTML5, CSS3, & JavaScript**
+* 💡 Hobi: Bikin proyek web interaktif & rapi dari HP yang saya punya
+
+---
+
+### 🛠️ Bahasa & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📌 Proyek Unggulan
-* 🍲 **[Asli-MADANG-DAK](https://github.com/ydaryani112-prog/Asli-MADANG-DAK)** - Website interaktif dengan pemutar musik & media player.
+* 🍲 **[Asli-MADANG-DAK](https://github.com/ydaryani112-prog/Asli-MADANG-DAK)**  
+  *Website interaktif bernuansa pedesaan alami yang modern, lengkap dengan audio player & galeri media.*
 
 ---
 
-### 📫 Hubungi Saya
-* ✉️ Email: `ydaryani112@gmail.com`
+### 📬 Sapa Saya Di Sini!?😊
+* ✉️ **Email:** `ydaryani112@gmail.com`
+
+---🗿🤫😁☺️😅😊🚬☕♊🤧
+*✨ "Satu commit sehari, bikin skill koding makin terasah!"*
