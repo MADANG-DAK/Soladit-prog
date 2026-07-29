@@ -8,7 +8,7 @@ Sometimes suka ngulik kode, bikin tampilan web yang rapi, dan bereksperimen deng
 ### ☕ Sekilas Tentang Saya
 * 🇮🇩 Berbasis di Indonesia
 * 🎯 Lagi coba belajar: **HTML5, CSS3, & JavaScript**
-* 💡 Hobi: Sometimes bikin proyek web interaktif & rapi dari HP yang saya pakai
+* 💡 Hobi: Sometimes bikin proyek web interaktif & rapi dari Handphone
 
 ---
 
