@@ -1,14 +1,14 @@
-# 👋 Halo, Saya Ydaryani! 
+# 👋 Halo, Saya Soladit! 
 
 Lagi asyik mendalami dunia **Web Development** 🚀 
-Suka ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal baru!
+Sometimes suka ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal baru!
 
 ---
 
 ### ☕ Sekilas Tentang Saya
 * 🇮🇩 Berbasis di Indonesia
-* 🎯 Lagi fokus belajar: **HTML5, CSS3, & JavaScript**
-* 💡 Hobi: Bikin proyek web interaktif & rapi dari HP yang saya punya
+* 🎯 Lagi coba belajar: **HTML5, CSS3, & JavaScript**
+* 💡 Hobi: Sometimes bikin proyek web interaktif & rapi dari HP yang saya pakai
 
 ---
 
