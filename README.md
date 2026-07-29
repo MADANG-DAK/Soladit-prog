@@ -28,5 +28,5 @@ Sometimes suka ngulik kode, bikin tampilan web yang rapi, dan bereksperimen deng
 ### 📬 Sapa Saya Di Sini!? 
 * ✉️ **Email:** `ydaryani112@gmail.com`
 
-ツ 🗿🤫😁☺️😅😊🚬☕♊🤧
+ツ-_-🗿🤫😁☺️😅😊🚬☕♊🤧
 *✨ "Satu commit sehari, bikin skill koding makin terasah!"*
