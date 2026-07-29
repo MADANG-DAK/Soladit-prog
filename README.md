@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Soladit! ツ 
+# 👋 Halo, Saya Soladit! ​^_^ 
 
 Lagi asyik mendalami dunia **Web Development** 🚀 
 Sometimes suka ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal baru!
@@ -25,8 +25,8 @@ Sometimes suka ngulik kode, bikin tampilan web yang rapi, dan bereksperimen deng
 
 ---
 
-### 📬 Sapa Saya Di Sini!?😊
+### 📬 Sapa Saya Di Sini!? 
 * ✉️ **Email:** `ydaryani112@gmail.com`
 
----🗿🤫😁☺️😅😊🚬☕♊🤧
+ツ 🗿🤫😁☺️😅😊🚬☕♊🤧
 *✨ "Satu commit sehari, bikin skill koding makin terasah!"*
