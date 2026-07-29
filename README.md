@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Soladit! ​^_^
+# 👋 Halo, Saya Soladit! ツ ​^_^
 
 Lagi asyik mendalami dunia **Web Development** 🚀 
 Sometimes suka ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal baru!
