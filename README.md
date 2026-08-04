@@ -3,7 +3,7 @@
 
 
 ​^‿`Lagi asyik mendalami dunia **Web Development** 🚀 
-Sometimes suka ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal baru!
+bekajar ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal baru!
 
 ---
 
