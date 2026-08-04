@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="IMG.logo_Madang_dak.jpg" width="180" alt="Logo Madang Dak">
-</p>
-
 # 👋 Halo, Saya Soladit!​ 
 
 ​^‿`Lagi asyik mendalami dunia **Web Development** 🚀 
