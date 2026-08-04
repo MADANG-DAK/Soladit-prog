@@ -1,8 +1,7 @@
-# 👋 Halo, 
-<img src="MADANK DAK.jpg" align="right" width="110" alt="Logo Soladit"> 
-Saya Soladit!​ 
+# 👋 Halo, Saya Soladit!​ 
 
-​^‿`Lagi asyik mendalami dunia **Web Development** 🚀
+​<img src="MADANK DAK.jpg" align="right" width="110" alt="Logo Soladit"> 
+^‿`Lagi asyik mendalami dunia **Web Development** 🚀
 pengen ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal yang baru!
 
 ---
