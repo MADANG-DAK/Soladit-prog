@@ -1,4 +1,4 @@
-<img src="IMG.MADANG DAK.jpg" align="right" width="70" alt="Logo Soladit">
+<img src="IMG.MADANK DAK.jpg" align="right" width="70" alt="Logo Soladit">
 
 
 # 👋 Halo, Saya Soladit!​ 
