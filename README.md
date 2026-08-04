@@ -1,6 +1,4 @@
-<img src="IMG.logo_Madang_dak.jpg" align="right" width="140" alt="Logo Soladit">
-
-# 👋 Halo, Saya Soladit!​ 
+<img src="IMG.logo_Madang_dak.jpg" align="right" width="130" alt="Logo Soladit"># 👋 Halo, Saya Soladit!
 
 ​^‿`Lagi asyik mendalami dunia **Web Development** 🚀 
 Sometimes suka ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal baru!
