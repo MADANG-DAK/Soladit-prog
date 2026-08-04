@@ -1,6 +1,5 @@
 <img src="MADANK DAK.jpg" align="right" width="110" alt="Logo Soladit">
 
-
 # 👋 Halo, Saya Soladit!​ 
 
 ​^‿`Lagi asyik mendalami dunia **Web Development** 🚀
