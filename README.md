@@ -1,20 +1,3 @@
-<table>
-  <tr>
-    <td valign="top">
-
-# 👋 Halo, Saya Soladit!
-
-^_\`Lagi asyik mendalami dunia **Web Development** 🚀  
-Sometimes suka ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal baru!
-
-   </td>
-    <td width="130" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/MADANG-DAK/MADANG-DAK/main/IMG.logo_Madang_dak.jpg" width="120" alt="Logo Soladit">
-    </td>
-  </tr>
-</table>
-
-
 # 👋 Halo, Saya Soladit!​ 
 
 ​^‿`Lagi asyik mendalami dunia **Web Development** 🚀 
