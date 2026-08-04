@@ -1,8 +1,5 @@
 <img src="IMG.logo_Madang_dak.jpg" align="right" width="70" alt="Logo Soladit">
 
-<p align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=70&lines=MADANG+DAK" alt="MADANG DAK" style="filter: drop-shadow(0px 0px 8px rgba(255, 255, 255, 0.7));" />
-</p>
 
 # 👋 Halo, Saya Soladit!​ 
 
