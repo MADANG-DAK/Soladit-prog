@@ -1,16 +1,17 @@
 # 👋 Halo, Saya Soladit!​ 
-<img src="IMG.logo_Madang_dak.jpg" align="right" width="120" alt="Logo Soladit">
+<img src="IMG.logo_Madang_dak.jpg" align="right" width="110" alt="Logo Soladit">
 
+---
 
-​^‿`Lagi asyik mendalami dunia **Web Development** 🚀 
-belajar ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal baru!
+​^‿`Lagi asyik mendalami dunia **Web Development** 🚀
+pengen ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-hal yang baru!
 
 ---
 
 ### ☕ Sekilas Tentang Saya
 * 🇮🇩 Berbasis di Indonesia
 * 🎯 Lagi coba belajar: **HTML5, CSS3, & JavaScript**
-* 💡 Hobi: Sometimes bikin proyek web interaktif & rapi dari Handphone
+* 💡Hobi: Sometimes bikin proyek web interaktif & rapi dari Handphone
 
 ---
 
@@ -22,7 +23,7 @@ belajar ngulik kode, bikin tampilan web yang rapi, dan bereksperimen dengan hal-
 ---
 
 ### 📌 Proyek Unggulan
-* 🍲 **[Asli-MADANG-DAK](https://github.com/ydaryani112-prog/Asli-MADANG-DAK)**  
+* 🚬 **[Asli-MADANG-DAK](https://github.com/ydaryani112-prog/Asli-MADANG-DAK)**  
   *Website interaktif bernuansa pedesaan alami yang modern, lengkap dengan audio player & galeri media.*
 
 ---
